@@ -14,5 +14,6 @@ public class Concat {
         System.out.println(new Concat().method1()+new Concat().method2());
     }
 
+
 }
 
